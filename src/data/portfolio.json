@@ -1,52 +1,52 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "Genshin",
-            "description": "React, JSX, Tailwind. Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/home.png",
+            "title": "Portfolio",
+            "description": "React, JSX, SCSS, Animate.css ",
+            "url": "https://github.com/NICKsensei/refat-portfolio"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "Genshin",
-            "description": "React, JSX, Tailwind. Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/v-ai.png",
+            "title": "AI Hand Painter",
+            "description": "Python, OpenCV, Mediapipe",
+            "url": "https://github.com/NICKsensei/AI-Hand-Painter"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "Genshin",
-            "description": "React, JSX, Tailwind. Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/triangle.png",
+            "title": "Triangle Animation",
+            "description": "Python, Turtle",
+            "url": "https://github.com/NICKsensei/Triangle-Animation"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "Genshin",
-            "description": "React, JSX, Tailwind. Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/v-game.png",
+            "title": "Virtual Handgames",
+            "description": "Python, OpenCV, Mediapipe",
+            "url": "https://github.com/fahmeedhc/virtual_handgames.git"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "Genshin",
-            "description": "React, JSX, Tailwind. Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/v-calc.png",
+            "title": "Virtual Calculator",
+            "description": "Python, OpenCV, Mediapipe",
+            "url": "https://github.com/Mridul400/Virtual-Calculator-OpenCv01"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "Genshin",
-            "description": "React, JSX, Tailwind. Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/spam.png",
+            "title": "Spam Classifier",
+            "description": "Python, Machine Learning",
+            "url": "https://nick-test1.herokuapp.com/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "Genshin",
-            "description": "React, JSX, Tailwind. Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/todo.png",
+            "title": "Flask To-Do App",
+            "description": "Python, Flask",
+            "url": "https://www.youtube.com/watch?v=oA8brF3w5XQ"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "Genshin",
-            "description": "React, JSX, Tailwind. Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/anime.png",
+            "title": "Make Random Anime Faces",
+            "description": "Machine Learning",
+            "url": "https://make.girls.moe/"
         }
     ]
 }
