@@ -1,5 +1,4 @@
 # Getting Started with Create React App
-[<img src='(https://github.com/NICKsensei/refat-portfolio/blob/main/public/portfolio/1/home.png?raw=true)' alt='portfolio' height='40'>]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
